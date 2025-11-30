@@ -1,6 +1,6 @@
 # 🏄‍♂️ Le Hoang Danh (Developer)
 
-Tell something about myself
+Just a passionate and driven guy who loves exploring the world of programming and constantly seeks to create meaningful value through technology.
 
 ---
 
